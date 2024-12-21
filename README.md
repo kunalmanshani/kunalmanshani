@@ -1,5 +1,7 @@
 ## Hi there 👋
 - 👨‍💻 Currently working at CentricTech as Senior Flutter Engineer.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalmanshani&show_icons=true)
+
 <!--
 **kunalmanshani/kunalmanshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
