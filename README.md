@@ -6,7 +6,7 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kunalmanshani&theme=github)
 <!-- ![GIF](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/deepakkumardev)
   ![Language](https://img.shields.io/badge/Language-Dart-blue) ![Profile Views](https://komarev.com/ghpvc/?username=kunalmanshani&color=blue)
 
 
